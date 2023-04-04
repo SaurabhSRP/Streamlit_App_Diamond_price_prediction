@@ -1,1 +1,1 @@
-# EndTOEndDeployment_bostonHousing
+# Streamlit App for Diamond Price Prediction
